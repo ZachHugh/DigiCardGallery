@@ -1,5 +1,5 @@
 const Header = () => {
-  return <header>Header</header>
+  return <header>Welcome to DigiCard Gallery!</header>
 };
 
 export default Header;

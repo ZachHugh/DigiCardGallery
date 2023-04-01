@@ -1,5 +1,8 @@
+import Form from "./Form";
+import Gallery from "./Gallery";
+
 const Body = () => {
-    return <div>Body</div>
+    return <div><Form /><Gallery /></div>
   };
   
   export default Body;
